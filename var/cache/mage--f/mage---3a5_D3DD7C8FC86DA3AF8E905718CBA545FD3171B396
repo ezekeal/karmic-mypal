@@ -1,0 +1,17 @@
+<div class="jm-info clearfix">
+  <ul>
+<li><a href="http://mag2.brandonmcpeak.com/about-magento-demo-store?___SID=U">About Us</a></li>
+<li><a href="http://mag2.brandonmcpeak.com/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://mag2.brandonmcpeak.com/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul></div>
+<div class="jm-legal">
+Help Us to Keep Magento Healthy - <a href="http://www.magentocommerce.com/bug-tracking" id="bug_tracking_link"><strong>Report All Bugs</strong></a> (ver. 1.8.1.0)<br />
+<script type="text/javascript">
+    $('bug_tracking_link').target = "varien_external";
+</script>
+&copy; 2008 Magento Demo Store. All Rights Reserved.. 
+Designed by <a href="http://www.joomlart.com/" title="Visit Joomlart.com!">JoomlArt.com</a>.
+</div>
+<div class="jm-footer-logo">
+	<h1 id="footer-logo"><a href="http://mag2.brandonmcpeak.com/?___SID=U" title=""><span>JM Trex</span></a></h1>
+</div>
